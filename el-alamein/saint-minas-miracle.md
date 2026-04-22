@@ -160,7 +160,9 @@ The Second Battle of El-Alamein ended on **4 November 1942**, with Rommel's forc
 
 Patriarch Christophoros II (1876–1967) was a real historical figure who genuinely served as Patriarch from 1939 to 1966. His celebration of the feast on 11 November 1942 is a historically plausible event — it was his liturgical duty to mark the feast, and the timing of the victory would naturally have given that year's celebration a very particular character. Whether he made a formal declaration about the miracle, or simply offered thanksgiving in the context of the feast, is something the sources do not allow us to determine precisely.
 
-Multiple religious sources also mention that the Egyptian Gazette, an English-language Cairo newspaper, reported the miracle on **10 November 1942**. The Egyptian Gazette of that period is confirmed to exist in archives, but the actual text of the November 10, 1942 issue has not been independently retrieved and examined. This citation, repeated across religious websites, has not yet been verified from the original newspaper.
+Multiple religious sources also mention that the Egyptian Gazette, an English-language newspaper published in Egypt, reported the miracle on **10 November 1942**. Research into this claim reveals an important caveat: no one — across any of the dozens of religious websites that repeat it — has ever actually quoted a single sentence, headline, or paragraph from that issue. The claim appears to originate from Archimandrite Vassilopoulos's book and was popularised online by a 2010 blog post that states it as fact without reproducing any newspaper text. Every subsequent website copies the assertion without having checked the source.
+
+Physical copies of the Egyptian Gazette from November 1942 do exist — microfilm is held at the **British Library** (London) and the **Center for Research Libraries** (Chicago), and a single physical copy of the 8 November 1942 issue is held at the University of North Carolina Wilmington. None of these are digitised or accessible online. To confirm or refute the claim, a researcher would need to visit the British Library's Newsroom and examine the microfilm reel covering October–November 1942. Until that is done, the Egyptian Gazette citation must be treated as **unverified**.
 
 ---
 
@@ -202,7 +204,7 @@ This section is perhaps the most important in the document — because the mirac
 | Saint Minas appeared at midnight leading camels toward the German camp | No secular corroboration |
 | German soldiers fled in supernatural terror because of the apparition | No secular corroboration |
 | Montgomery had a dream in which a figure named "Mena" appeared | Not found in Montgomery's memoirs |
-| The Egyptian Gazette reported the miracle on 10 November 1942 | Cited but text not independently verified |
+| The Egyptian Gazette reported the miracle on 10 November 1942 | Unverified — claim repeated across religious sites but no one has quoted the actual text; physical microfilm exists at the British Library but has not been examined |
 | The Allies gifted land near El-Alamein to the Patriarchate | Not confirmed; monastery built in 1959 through other means |
 
 ### Two kinds of truth
@@ -266,7 +268,7 @@ Every year on **11 November**, Greek Orthodox churches around the world mark the
 
 4. **The role of coincidence:** The feast of Saint Menas falls on 11 November — just one week after the battle ended on 4 November. If the battle had ended in August or March, do you think the miracle tradition would have developed in the same way? What does this suggest about how religious meaning is made?
 
-5. **Sources and authority:** Archimandrite Vassilopoulos's book, the Egyptian Gazette citation, and Patriarch Christophoros II's thanksgiving liturgy are different kinds of sources. How do you weigh them against each other? Which would you trust most, and why?
+5. **Sources and authority:** Archimandrite Vassilopoulos's book, the Egyptian Gazette citation, and Patriarch Christophoros II's thanksgiving liturgy are different kinds of sources. Research shows that no one has ever actually quoted the supposed Egyptian Gazette article — the claim has been repeated for decades without anyone checking the original newspaper, which sits on microfilm at the British Library in London. What does this tell us about how secondary sources can be copied and treated as facts? How would you go about verifying it?
 
 6. **The Montgomery dream:** The claim that Montgomery had a dream about a figure named "Mena" appears on a devotional website but not in Montgomery's own memoirs. How should we treat a claim that comes from a secondary source but cannot be traced to a primary source?
 
