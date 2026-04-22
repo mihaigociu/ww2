@@ -72,7 +72,7 @@ The burial site of Saint Minas did not remain forgotten for long. Within decades
 The site is known in Arabic as **Abu Mena** — "Father Mena" or "the place of Mena." It lies approximately **50 kilometres southwest of Alexandria**, in the desert near the shore of Lake Mariout in Egypt's Western Desert.
 
 ![Map of the northwestern Egyptian Mediterranean coast, with El-Alamein marked in red](https://upload.wikimedia.org/wikipedia/commons/4/4f/Al_alamayn_map.png)
-*The northwestern Egyptian coast: El-Alamein (marked with a red dot) lies approximately 106 km west of Alexandria. Abu Mena — Saint Minas's burial site — lies roughly 50 km southwest of Alexandria, in the same desert corridor between the two locations. The inset (bottom right) shows the position of this region within Egypt. (Public Domain — United Nations cartography)*
+*The northwestern Egyptian coast: El-Alamein (marked with a red dot) lies approximately 106 km west of Alexandria. Abu Mena — Saint Minas's burial site — lies roughly 50 km southwest of Alexandria, in the same desert corridor between the two locations. The inset shows the position of this region within Egypt. (Public Domain — United Nations cartography)*
 
 ### Pilgrims from Across the World
 
