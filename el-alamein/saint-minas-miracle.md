@@ -71,8 +71,8 @@ The burial site of Saint Minas did not remain forgotten for long. Within decades
 
 The site is known in Arabic as **Abu Mena** — "Father Mena" or "the place of Mena." It lies approximately **50 kilometres southwest of Alexandria**, in the desert near the shore of Lake Mariout in Egypt's Western Desert.
 
-![Location map of Abu Mena UNESCO World Heritage Site in Egypt](https://upload.wikimedia.org/wikipedia/commons/8/8a/LocMap_of_WH_Abu_Mena.png)
-*Location of Abu Mena (marked) in northwestern Egypt, near Alexandria. The battle of El-Alamein was fought approximately 60 km further west along the Mediterranean coast. (CC BY-SA 3.0 — Wikimedia Commons)*
+![Relief map of northern Egypt showing the Mediterranean coast — the Abu Mena and El-Alamein region](https://upload.wikimedia.org/wikipedia/commons/6/66/Egypt_relief_location_map_north.jpg)
+*Northern Egypt: Abu Mena lies approximately 50 km southwest of Alexandria; El-Alamein lies approximately 106 km west of Alexandria, along the same Mediterranean coastal strip. (CC BY-SA 3.0 — Eric Gaba / NordNordWest, Wikimedia Commons)*
 
 ### Pilgrims from Across the World
 
@@ -323,7 +323,7 @@ All images are Public Domain or Creative Commons licensed, sourced from Wikimedi
 
 - **Christ and Saint Menas icon (Bawit, 6th c.):** Coptic artist, Louvre Museum (Public Domain)
 - **Ampulla with Saint Menas, two camels (MET):** Metropolitan Museum of Art (CC0 Public Domain)
-- **Abu Mena location map:** Wikimedia Commons contributors (CC BY-SA 3.0)
+- **Northern Egypt relief map (Abu Mena / El-Alamein region):** Eric Gaba (Sting) / NordNordWest (CC BY-SA 3.0)
 - **Basilica of the Crypt, Abu Mena:** Iris Fernandez / ISAW-NYU (CC BY 2.0)
 - **Bath complex ruins, Abu Mena:** Iris Fernandez / ISAW-NYU (CC BY 2.0)
 - **Greek artillery, El-Alamein 1942:** Unknown (Public Domain)
